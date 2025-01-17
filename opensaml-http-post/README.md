@@ -1,5 +1,5 @@
 # Demo code on HTTP POST in OpenSAML 4
-This code shows a how to use the HTTPPostEncoder and HTTPPostDecoder in OpenSMAL 4 to send a receive messages using the HTTP POST binding.
+This code shows a how to use the HTTPPostEncoder and HTTPPostDecoder in OpenSMAL 4 to send and receive messages using the HTTP POST binding.
 
 The code is explained with more detail and backgound on [this blog post](https://blog.samlsecurity.com/post/post-binding-opensaml-4/?utm_source=github&utm_medium=link&utm_campaign=opensaml_samples_collection&utm_content=http-post-binding)
 

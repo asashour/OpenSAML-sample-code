@@ -7,9 +7,9 @@ The demo acts a good overview guide to OpenSAML demonstrating:
 * Building, singing and sending a AuthnRequest using HTTP Redirect binding
 * Parsing and verifying signatures on AuthnRequest
 * Sending a Response message using the Artifact binding
-* Encrypting and decryoting a Assertion
+* Encrypting and decrypting an Assertion
 
-## Runing the code
+## Running the code
 Clone the code, navigate to the folder for this sample and run: 
 ```
 mvn tomcat:run
